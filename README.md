@@ -20,3 +20,5 @@ L’organisation du layout grâce à Bootstrap et sa division des colonnes en 12
 - [x] **Plug-in** → `Live server`, `Terminal`, `vscode-icons`, `JavaScript standardjs styled snippets`, `Emmet JSS`, `Bracket Pair Colorizer`
 
 - [x] ( [Twitter](https://twitter.com/KobeKenjo) ) 
+
+![Logo](./quand-planter.jpeg)
