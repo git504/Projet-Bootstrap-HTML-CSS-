@@ -8,7 +8,7 @@
 
 Le projet tournera autour de l’apprentissage de **Bootstrap**, qui est un Framework de CSS. Tout d’abord je vous donnerai les plug-ins que j’estime utiles pour développer un peu plus vite. Ensuite on apprendra comment intégrer Bootstrap à son projet, en téléchargeant le fichier ou bien en prenant un CDN. Nous coderons une page d’accueil pour un site de type blog/boutique. 
 
-##Au programme
+## Au programme
 
 L’organisation du layout grâce à Bootstrap et sa division des colonnes en 12, quelques effets CSS sympas comme les Keyframes. Le tout en s’assurant que le site soit responsive et adapté à toutes les tailles d’écrans. Enfin le cours finira sur une introduction au SEO (le référencement naturel) où nous verrons quelles bonnes habitudes prendre pour coder un site bien référencé naturellement.
 
