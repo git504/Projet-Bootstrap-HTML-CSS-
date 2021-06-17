@@ -1,8 +1,7 @@
 # Projet-Bootstrap-HTML-CSS
-
  From Scratch - Développement Web
 
-- [x] **BOOTSTRAP + CSS + HTML + JAVASCRIPT** from Scratch  
+## **BOOTSTRAP + CSS + HTML + JAVASCRIPT** from Scratch  
 
 - [x] ( [Fichier de base du projet](https://github.com/JustFS/support-pro) ) 
 
